@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Uzair Korai  
+## 👋 Hi, I’m Muhammad Uzair Korai  
 
 I’m a **Senior Mobile App Developer with 5+ years of experience in React Native**, building high-performance, scalable mobile apps across **fintech, HR systems, social platforms, e-commerce, and enterprise SaaS solutions**. I focus on **modular architecture, smooth UI/UX, and complex business workflows**.
 
